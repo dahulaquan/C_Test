@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ce000cb8-5909-4ba7-8302-bab33cb37fa9": {
+      "ProjectGuid": "ce000cb8-5909-4ba7-8302-bab33cb37fa9",
+      "DisplayName": "character1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

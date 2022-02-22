@@ -1,0 +1,3 @@
+﻿  test.c
+D:\Visual Studio 2022\study\character1\character1\test.c(38,26): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
+  character1.vcxproj -> D:\Visual Studio 2022\study\character1\x64\Debug\character1.exe
